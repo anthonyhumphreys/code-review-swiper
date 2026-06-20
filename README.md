@@ -2,6 +2,23 @@
 
 Code Review Swiper is a SwiftUI mobile app for reviewing GitHub pull requests one changed file at a time. It turns each file into a Tinder-style swipe card with an Apple Foundation Models summary on the front, the raw diff on the back, and accept/reject gestures that are compiled into PR feedback when the deck is finished.
 
+## Inspired by 
+
+<a href="https://x.com/jjacky/status/2067800528386482591">
+  <img
+    src="./screenshot.png"
+    alt="@jaccky's tweet 'tinder but for code reviews'"
+    width="640"
+  />
+</a>
+
+<p>
+  <a href="https://x.com/jjacky/status/2067800528386482591">
+    View the original post on X →
+  </a>
+</p>
+
+
 ## Features
 
 - GitHub sign-in through OAuth device flow.
